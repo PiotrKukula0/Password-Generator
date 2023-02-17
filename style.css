@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to bottom right, #4b6cb7, #182848);
+}
+
+.container {
+    margin-top: 25px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+#length-value {
+    color: #ddd;
+}
+button {
+    margin: 10px;
+}
